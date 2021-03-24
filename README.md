@@ -1,2 +1,0 @@
-# Pyprac
-Exercises
